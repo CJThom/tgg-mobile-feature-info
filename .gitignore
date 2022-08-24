@@ -83,3 +83,17 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+pos/feature/info/app/.gitignore
+pos/feature/info/data/.gitignore
+pos/feature/info/data/src/test/java/com/thegoodguys/tggmobilecorepos/feature/bay/data/ExampleUnitTest.kt
+pos/feature/info/domain/.gitignore
+pos/feature/info/domain/src/androidTest/java/com/thegoodguys/tggmobilecorepos/domain/ExampleInstrumentedTest.kt
+pos/feature/info/domain/src/test/java/com/thegoodguys/tggmobilecorepos/domain/ExampleUnitTest.kt
+pos/feature/info/presentation/.gitignore
+pos/feature/info/presentation/src/androidTest/java/com/thegoodguys/tggapps/mobile/feature/info/ExampleInstrumentedTest.kt
+pos/feature/info/presentation/src/androidTest/java/com/thegoodguys/tggmobilecorepos/ui/ExampleInstrumentedTest.kt
+pos/feature/info/presentation/src/test/java/com/thegoodguys/tggapps/mobile/feature/info/ExampleUnitTest.kt
+pos/feature/info/presentation/src/test/java/com/thegoodguys/tggmobilecorepos/ui/ExampleUnitTest.kt
